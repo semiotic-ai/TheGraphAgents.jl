@@ -1,6 +1,6 @@
 name = "TheGraphAgents"
 uuid = "9d7a77b1-344f-4823-8f6e-e0e29931018c"
-authors = ["Semiotic Labs Inc."]
+authors = ["Semiotic Labs, Inc."]
 version = "0.1.0"
 
 [compat]
